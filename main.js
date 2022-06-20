@@ -1,4 +1,3 @@
-import './style2.css'
 
 $(document).ready(function(){
   setTimeout(function(){
