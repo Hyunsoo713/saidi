@@ -1,4 +1,4 @@
-import './style2.scss'
+import './style2.css'
 
 $(document).ready(function(){
   setTimeout(function(){
